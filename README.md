@@ -9,4 +9,4 @@ Several Feauter that you can get here :
   - spot price
   - change currency
 
-
+Resources come from @covalent for #gitcoint bounty
