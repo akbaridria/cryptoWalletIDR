@@ -1,0 +1,7 @@
+#spinner.show {
+  visibility: visible;
+}
+
+#spinner {
+  visibility: hidden;
+}
